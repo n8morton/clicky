@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Terra",
+      "image": "./images/terra.png"
+      
+    },
+    {
+      "id": 2,
+      "name": "Cyan",
+      "image": "./images/cyan.png"
+    },
+    {
+      "id": 3,
+      "name": "Edgar",
+      "image": "./images/edgar.png"
+    },
+    {
+      "id": 4,
+      "name": "Relm",
+      "image": "./images/relm.png"
+    },
+    {
+      "id": 5,
+      "name": "Gau",
+      "image": "./images/gau.png"
+    },
+    {
+      "id": 6,
+      "name": "Setzer",
+      "image": "./images/setzer.png"
+    },
+    {
+      "id": 7,
+      "name": "Strago",
+      "image": "./images/strago.png"
+    },
+    {
+      "id": 8,
+      "name": "Celes",
+      "image": "./images/celes.png"
+    },
+    {
+      "id": 9,
+      "name": "Locke",
+      "image": "./images/locke.png"
+    },
+    {
+      "id": 10,
+      "name": "Mog",
+      "image": "./images/mog.png"
+    },
+    {
+      "id": 11,
+      "name": "Sabin",
+      "image": "./images/sabin.png"
+    },
+    {
+      "id": 12,
+      "name": "Shadow",
+      "image": "./images/shadow.png"
+    }
+  ]
+  
